@@ -1,6 +1,6 @@
 # Using pandas for Better (and Worse) Data Science
 
-This tutorial was presented by [Kevin Markham](http://www.dataschool.io/about/) at [PyCon](https://us.pycon.org/2018/schedule/presentation/68/) on May 10, 2018.
+
 
 ## Jupyter notebook
 
